@@ -2,6 +2,18 @@
 
 body {
     background-color:rgb(4, 4, 27);
+    margin:0;
+    padding-top:60px;
     color:rgb(218, 222, 226);
     font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width:960px;
+    margin:20px auto;
+    padding:20px;
+    background-color:rgb(4, 4, 27);
+    border-radius:5px;
+    box-shadow:0 0 10px rgb(0, 0, 0);
+    position:relative;
 }
